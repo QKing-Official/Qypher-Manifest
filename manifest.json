@@ -1,6 +1,10 @@
 {
-  "name": "Example",
-  "description": "An example application",
-  "url": "https://github.com/QKing-Official/QText",
-  "filename": "QText.exe"
+  "applications": [
+    {
+      "name": "Qtext",
+      "description": "A lightweight text editor",
+      "url": "https://github.com/QKing-Official/QText/releases/latest/download/QText.zip",
+      "filename": "QText.exe"
+    }
+  ]
 }

@@ -5,6 +5,12 @@
       "description": "A lightweight text editor",
       "url": "https://github.com/QKing-Official/QText/releases/latest/download/QText.zip",
       "filename": "QText.exe"
+    },
+    {
+      "name": "Noizz",
+      "description": "An abient noise generator with easy windows management.", 
+      "url": "https://github.com/QKing-Official/Noizz/releases/download/1.1/Noizz.zip",
+      "filename": "Noizz.exe"
     }
   ]
 }
